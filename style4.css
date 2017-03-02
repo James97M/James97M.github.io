@@ -8,9 +8,9 @@ body { background-image:url("http://www.publicdomainpictures.net/pictures/100000
 h3{color:white; font-size: "20pt"}
            
        nav a 
-:link    {color:green; background-color:transparent;list-style-type: none}
-a:visited {color:black; background-color:transparent;list-style-type: none}
-a:hover   {color:red; background-color:transparent; list-style-type: none}
-a:active  {color:yellow; background-color:transparent; list-style-type: none}
+:link    {color:FF8C00; background-color:transparent;list-style-type: none}
+a:visited {color:FF8C00; background-color:transparent;list-style-type: none}
+a:hover   {color:FF8C00; background-color:transparent; list-style-type: none}
+a:active  {color:FF8C00; background-color:transparent; list-style-type: none}
     
     h4 {color:#00006C ; font-family: "Lobster", cursive; font-size: 18pt} 
