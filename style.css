@@ -1,0 +1,19 @@
+H1 {color: 	#FF8C00; font-size: 45pt}
+body { background-image:url("http://www.publicdomainpictures.net/pictures/100000/velka/baseball-field-grass-turf.jpg");
+       color: orange;
+       font-size: 15pt; }
+       nav a {display: inline-block;
+       border: 1px solid black;
+       backround: white;
+       padding: 10px;}
+       
+H2 { color:white; Font-family: 'lobster', cursive;}
+       
+       nav a { color: Orange; Font-family: 'lobster', strong;}
+
+nav a 
+:link    {color:#FF8C00; background-color:transparent;list-style-type: none}
+a:visited {color:#FF8C00; background-color:transparent;list-style-type: none}
+a:hover   {color:#FF8C00; background-color:transparent; list-style-type: none}
+a:active  {color:white; background-color:transparent; list-style-type: none}
+

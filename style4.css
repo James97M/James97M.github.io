@@ -1,0 +1,15 @@
+H1 {color:#00006C ; font-size: 40pt;}
+body { background-image:url("http://www.publicdomainpictures.net/pictures/100000/velka/baseball-field-grass-turf.jpg");
+       color: #FF8C00;
+       font-size: 14pt; }
+     
+       H2 {color: #FF8C00; font-size: 25pt}
+       
+    
+       nav a 
+:link    {color:green; background-color:transparent;list-style-type: none}
+a:visited {color:black; background-color:transparent;list-style-type: none}
+a:hover   {color:red; background-color:transparent; list-style-type: none}
+a:active  {color:yellow; background-color:transparent; list-style-type: none}
+    
+    h4 {color:#00006C ; font-family: "Lobster", cursive; font-size: 18pt} 
