@@ -11,8 +11,8 @@ H2 { color:white; Font-family: 'lobster', cursive;}
        
 
 nav a 
-:link    {color:#FF8C00; background-color:transparent;list-style-type: none}
-a:visited {color:#FF8C00; background-color:transparent;list-style-type: none}
-a:hover   {color:#FF8C00; background-color:transparent; list-style-type: none}
-a:active  {color:white; background-color:transparent; list-style-type: none}
+:link    {color:FF8C00; background-color:transparent;list-style-type: none}
+a:visited {color:FF8C00; background-color:transparent;list-style-type: none}
+a:hover   {color:FF8C00; background-color:transparent; list-style-type: none}
+a:active  {color:FF8C00; background-color:transparent; list-style-type: none}
 
